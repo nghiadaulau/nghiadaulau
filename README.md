@@ -10,6 +10,19 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nghiadaulau&count_private=true&show_icons=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiadaulau&layout=compact"/>
+
+## Social media info
+<p align="left">
+<a href="https://github.com/nghiadaulau"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40"/></a>
+<a href="https://www.facebook.com/NghiaDauLau"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40"/></a>
+<a href="https://www.instagram.com/nhatnghia_kai"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40"/></a>
+</p>
+
+## Contact info
+- Personal email: nhatnghiatyper@gmail.com
+- Work email: nhatnghiatyper@gmail.com
+- Homepage: [www.kkloudtarus.net](https://www.kkloudtarus.net/)
+
 <!--
 **nghiadaulau/nghiadaulau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
