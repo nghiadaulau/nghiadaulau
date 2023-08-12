@@ -4,7 +4,12 @@
  - 👤 I am Huỳnh Lê Nhất Nghĩa - A person passionate about technology & entrepreneurship.
  - 👀 I am currently a fourth-year student at Ton Duc Thang University. I am also a Fresher with one year of experience as a Back-End Developer.
  - 💻 I have a passion for DevOps & AWS. My dream is to become a DevOps Engineer & AWS Community Builder.
-#### ...
+    ### ...
+
+## My GitHub stats
+<img src="https://github-readme-stats.vercel.app/api?username=nghiadaulau&count_private=true&show_icons=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiadaulau&layout=compact"/>
 <!--
 **nghiadaulau/nghiadaulau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
