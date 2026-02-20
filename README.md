@@ -1,47 +1,60 @@
-### Nghĩa (Kai) Nhất 👋
+# Nghia (Kai) Huynh Le Nhat 👋
 
-## Bio
- - 👤 I am Huỳnh Lê Nhất Nghĩa - A person passionate about technology & entrepreneurship.
- - 👀 I am currently a fourth-year student at Ton Duc Thang University. I am also a Fresher with one year of experience as a Back-End Developer.
- - 💻 I have a passion for DevOps & AWS. My dream is to become a DevOps Engineer & AWS Community Builder.
-    ### ...
+## 🚀 About Me
+- 👤 DevOps Engineer @ **Vikki Digital Bank**
+- ☁️ AWS Community Builder (Cloud / Containers / DevOps)
+- 💻 Background: Software Engineer → DevOps
+- 🌏 Passionate about cloud-native systems, platform engineering, and cost optimization at scale
+- 🎯 Goal: Build reliable, scalable infrastructure and contribute to the global tech community
 
-## My GitHub stats
-<img src="https://github-readme-stats.vercel.app/api?username=nghiadaulau&count_private=true&show_icons=true"/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiadaulau&layout=compact"/>
+## 🧠 What I Do
+- Kubernetes, EKS, and cloud-native architecture
+- Terraform & GitOps (Argo CD, Helm)
+- CI/CD pipelines & platform automation
+- Observability & reliability engineering
+- Cost optimization (Karpenter, Graviton, Spot)
 
-## Social media info
-<p align="left">
-<a href="https://github.com/nghiadaulau"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40"/></a>
-<a href="https://www.facebook.com/NghiaDauLau"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40"/></a>
-<a href="https://www.instagram.com/nhatnghia_kai"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40"/></a>
-</p>
+---
 
-## Programming languages and tools
-<p align="left">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/go.svg" alt="Golang" height="30" width="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="MySQL" height="30" width="40"/>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="30" width="40"/>
-</p>
+## 🛠️ Tech Stack
+**Cloud & Infra**
+- AWS (EKS, Lambda, RDS, IAM, VPC)
+- Kubernetes, Docker
+- Terraform, Helm, Argo CD
 
-## Contact info
-- Personal email: nhatnghiatyper@gmail.com
-- Work email: nhatnghiatyper@gmail.com
-- Homepage: [www.kkloudtarus.net](https://www.kkloudtarus.net/)
+**Languages**
+- Go
+- Python
+- Bash
 
-<!--
-**nghiadaulau/nghiadaulau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data & Observability**
+- PostgreSQL, MySQL
+- Elasticsearch, Fluent Bit
+- Prometheus, Grafana
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=nghiadaulau&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nghiadaulau&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/nhatnghia
+- 🐙 GitHub: https://github.com/nghiadaulau
+- 📫 Email: nhatnghiatyper@gmail.com
+- 🌍 Blog/Portfolio: https://www.kkloudtarus.net/
+
+---
+
+## 🏆 Community
+- AWS Community Builder
+- Speaker on Cloud / Kubernetes / Cost Optimization
+- Writing about DevOps, AWS, and platform engineering
+
+---
+
+> Always learning. Always building. Always shipping. 🚢
