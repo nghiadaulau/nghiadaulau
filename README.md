@@ -1,28 +1,38 @@
 # Nghia (Kai) Huynh Le Nhat 👋
 
 ## 🚀 About Me
-- 👤 DevOps Engineer @ **Vikki Digital Bank**
+- 👤 Solution Architect / DevOps Engineer @ **TechX Corp.**
 - ☁️ AWS Community Builder (Cloud / Containers / DevOps)
-- 💻 Background: Software Engineer → DevOps
-- 🌏 Passionate about cloud-native systems, platform engineering, and cost optimization at scale
-- 🎯 Goal: Build reliable, scalable infrastructure and contribute to the global tech community
+- 💻 Journey: Backend Engineer → DevOps Engineer → Solution Architect
+- 🌏 Passionate about cloud-native architecture, platform engineering, and large-scale cost optimization
+- 🎯 Goal: Design reliable, scalable systems and contribute to the global tech community
+
+---
+
+## 💼 Experience
+- **Solution Architect / DevOps** @ TechX Corp. *(Mar 2026 – Present)*
+- **DevOps Engineer** @ Galaxy FinX (Vikki Digital Bank) *(Apr 2025 – Mar 2026)*
+- **Software Engineer / DevOps Engineer / Backend Developer** @ Techhaus Vietnam JSC *(Dec 2022 – Jan 2026)*
+- **DevOps Engineer** @ YODY *(Sep 2024 – Oct 2024, Part-time)*
 
 ---
 
 ## 🧠 What I Do
-- Kubernetes, EKS, and cloud-native architecture
-- Terraform & GitOps (Argo CD, Helm)
-- CI/CD pipelines & platform automation
-- Observability & reliability engineering
-- Cost optimization (Karpenter, Graviton, Spot)
+- Solution architecture & system design for cloud-native platforms
+- Kubernetes, EKS, and multi-cluster operations at scale
+- Infrastructure as Code with Terraform & GitOps (Argo CD, Helm)
+- CI/CD pipelines & internal developer platforms
+- Observability & SRE practices
+- FinOps & cost optimization (Karpenter, Graviton, Spot)
 
 ---
 
 ## 🛠️ Tech Stack
-**Cloud & Infra**
-- AWS (EKS, Lambda, RDS, IAM, VPC)
-- Kubernetes, Docker
-- Terraform, Helm, Argo CD
+
+**Cloud & Infrastructure**
+- AWS (EKS, Lambda, RDS, IAM, VPC, ECS, S3)
+- Kubernetes, Docker, Containerd
+- Terraform, Helm, Argo CD, Kustomize
 
 **Languages**
 - Go
@@ -31,8 +41,8 @@
 
 **Data & Observability**
 - PostgreSQL, MySQL
-- Elasticsearch, Fluent Bit
-- Prometheus, Grafana
+- Elasticsearch, Fluent Bit, Loki
+- Prometheus, Grafana, OpenTelemetry
 
 ---
 
@@ -46,14 +56,14 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/nhatnghia
 - 🐙 GitHub: https://github.com/nghiadaulau
 - 📫 Email: nhatnghiatyper@gmail.com
-- 🌍 Blog/Portfolio: https://www.kkloudtarus.net/
+- 🌍 Blog/Portfolio: https://kkloudtarus.net
 
 ---
 
 ## 🏆 Community
-- AWS Community Builder
+- AWS Community Builder (Cloud / Containers / DevOps)
 - Speaker on Cloud / Kubernetes / Cost Optimization
-- Writing about DevOps, AWS, and platform engineering
+- Writing about DevOps, AWS, Solution Architecture, and platform engineering
 
 ---
 
