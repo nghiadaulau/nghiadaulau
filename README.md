@@ -1,70 +1,48 @@
-# Nghia (Kai) Huynh Le Nhat 👋
+# Nghia (Kai) Huynh Le Nhat
 
-## 🚀 About Me
-- 👤 Solution Architect / DevOps Engineer @ **TechX Corp.**
-- ☁️ AWS Community Builder (Cloud / Containers / DevOps)
-- 💻 Journey: Backend Engineer → DevOps Engineer → Solution Architect
-- 🌏 Passionate about cloud-native architecture, platform engineering, and large-scale cost optimization
-- 🎯 Goal: Design reliable, scalable systems and contribute to the global tech community
+Solution Architect and DevOps Engineer at **TechX Corp.**
+AWS Community Builder focused on cloud-native architecture, platform engineering, DevSecOps, reliability, and cost optimization.
 
----
+## Experience
 
-## 💼 Experience
-- **Solution Architect / DevOps** @ TechX Corp. *(Mar 2026 – Present)*
-- **DevOps Engineer** @ Galaxy FinX (Vikki Digital Bank) *(Apr 2025 – Mar 2026)*
-- **Software Engineer / DevOps Engineer / Backend Developer** @ Techhaus Vietnam JSC *(Dec 2022 – Jan 2026)*
-- **DevOps Engineer** @ YODY *(Sep 2024 – Oct 2024, Part-time)*
+* **Solution Architect / DevOps Engineer** at TechX Corp. *(Mar 2026 – Present)*
+* **DevOps Engineer** at Galaxy FinX, Vikki Digital Bank *(Apr 2025 – Mar 2026)*
+* **Software Engineer / DevOps Engineer** at Techhaus Vietnam JSC *(Dec 2022 – Jan 2026)*
+* **DevSecOps Engineer, Freelance** at YODY
 
----
+## Areas of Focus
 
-## 🧠 What I Do
-- Solution architecture & system design for cloud-native platforms
-- Kubernetes, EKS, and multi-cluster operations at scale
-- Infrastructure as Code with Terraform & GitOps (Argo CD, Helm)
-- CI/CD pipelines & internal developer platforms
-- Observability & SRE practices
-- FinOps & cost optimization (Karpenter, Graviton, Spot)
+* Cloud-native solution architecture on AWS
+* Kubernetes, EKS, and multi-cluster operations
+* Infrastructure as Code and GitOps with Terraform, Helm, and Argo CD
+* CI/CD pipelines and internal developer platforms
+* DevSecOps, vulnerability management, and software supply chain security
+* Observability, SRE, and incident response
+* Cost optimization with Karpenter, Graviton, and Spot
 
----
+## Open Source
 
-## 🛠️ Tech Stack
+Owner and maintainer of [Synapse CE](https://github.com/KKloudTarus/synapse-ce), an open-source security platform focused on vulnerability intelligence, software composition analysis, secrets detection, and security automation.
 
-**Cloud & Infrastructure**
-- AWS (EKS, Lambda, RDS, IAM, VPC, ECS, S3)
-- Kubernetes, Docker, Containerd
-- Terraform, Helm, Argo CD, Kustomize
+Contributor to:
 
-**Languages**
-- Go
-- Python
-- Bash
+* [Future AGI](https://github.com/future-agi/future-agi)
+* [Versus Incident](https://github.com/VersusControl/versus-incident)
+* [Pulumi](https://github.com/pulumi/pulumi)
+* [HashiCorp AWS SDK Go Base](https://github.com/hashicorp/aws-sdk-go-base)
 
-**Data & Observability**
-- PostgreSQL, MySQL
-- Elasticsearch, Fluent Bit, Loki
-- Prometheus, Grafana, OpenTelemetry
+## Tech Stack
 
----
+**Cloud and Platform:** AWS, Kubernetes, Docker, Terraform, Helm, Argo CD, Kustomize
+**Languages:** Go, Python, Bash
+**Data and Observability:** PostgreSQL, MySQL, Prometheus, Grafana, OpenTelemetry, Elasticsearch
+**Security:** SCA, vulnerability intelligence, secret detection, container security, CI/CD security
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=nghiadaulau&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nghiadaulau&layout=compact)
+## Connect
 
----
+* [LinkedIn](https://www.linkedin.com/in/nhatnghia)
+* [GitHub](https://github.com/nghiadaulau)
+* [Blog](https://kkloudtarus.net)
+* [Email](mailto:nhatnghiatyper@gmail.com)
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/nhatnghia
-- 🐙 GitHub: https://github.com/nghiadaulau
-- 📫 Email: nhatnghiatyper@gmail.com
-- 🌍 Blog/Portfolio: https://kkloudtarus.net
-
----
-
-## 🏆 Community
-- AWS Community Builder (Cloud / Containers / DevOps)
-- Speaker on Cloud / Kubernetes / Cost Optimization
-- Writing about DevOps, AWS, Solution Architecture, and platform engineering
-
----
-
-> Always learning. Always building. Always shipping. 🚢
+> Always learning. Always building. Always shipping.
